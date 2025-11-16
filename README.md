@@ -25,3 +25,21 @@
   
 <img width="638" height="430" alt="Captura de pantalla 2025-11-16 172611" src="https://github.com/user-attachments/assets/7d2f151e-8c4e-4876-94ea-1af1d472dcc7" />
 
+### Opción 1 de admin
+  En la primera opción podremos ver las ganancias totales
+
+<img width="647" height="198" alt="Captura de pantalla 2025-11-16 180510" src="https://github.com/user-attachments/assets/4cd8cfa2-4b74-4d38-801c-661b8f4d4edc" />
+
+### Opción 2 de admin
+  En la opción 2 se verá la cantidad de vuelta que tenemos
+
+<img width="646" height="447" alt="Captura de pantalla 2025-11-16 180525" src="https://github.com/user-attachments/assets/90997bbd-fdb5-480b-b5ee-4ffdf4e01186" />
+
+### Opción 3 de admin
+  Volverá al menú principal
+<img width="657" height="328" alt="Captura de pantalla 2025-11-16 181708" src="https://github.com/user-attachments/assets/a5786b25-e277-49dd-a7b2-7d8224469cc0" />
+
+
+### Opción 4 de admin
+  En la opción 4 se apagará el sistema
+<img width="647" height="170" alt="Captura de pantalla 2025-11-16 180602" src="https://github.com/user-attachments/assets/a69dae41-b80a-4229-8b1d-25c3d1dd33d3" />
