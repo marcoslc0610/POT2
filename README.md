@@ -1,5 +1,20 @@
 # POT2
 
+## Instalación
+
+Para poder ejecutar el programa, debemos instalar el **JDK 25**.  
+[Haz clic aquí para descargarlo directamente en tu ordenador](https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe](https://download.oracle.com/java/25/latest/jdk-25_linux-aarch64_bin.tar.gz)).  
+El programa comenzará a descargarse automáticamente y deberás ejecutar el instalador para completar la instalación.
+
+---
+
+## Iniciar
+
+Descargamos el archivo `.zip` desde el repositorio de GitHub.  
+Una vez descargado, lo descomprimimos y abrimos la carpeta que se genera.
+
+Dentro de la carpeta `out/artifacts/practica2_jar`, encontramos el ejecutable `ejecutable.bat`. Haciendo doble clic, se inicia la aplicación.
+
 # Menú de bienvenida
   Este es el menú que aparecerá cuando ejecutemos la aplicación
   
